@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663682894735/PaPevHUgbT9h23EnN9jrFk",
+    "access_key_id": "ASIAZV3A2ECZE3R6RAXZ",
+    "secret_access_key": "session_token": "IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJIMEYCIQD6ZzpZhwbaks0bz6kb3B37NkqM/b6p+pSxXv/G44sxTgIhANLjYdtCtIX4+K0RQA0lDtya77n+Ct3gUY8WC5I0/8lNKvYDCAYQBBoMNjY1Mzg2MDk4ODY2IgyzFe6mWrfWHaM7TVAq0wOpFr69dYAYps9WYK6vIOu8s/80UBO3CBBNHdtAdhaypd5zPm/XMQl7RlUpRkTdbPhKkO2hcFFLcHv/YuZNsg0iJh7QpK6W4ar2sJzS4z5XBqyHPgmtdlIcEZRIZHVHV/+TgALb2NV4/ITjH18SgveANTVywQy5Njw97VKsUBMQ0XJ8/1v2jp0Y55sM8taryhD5T1kWDLs66Et9lFZr/q2du4L/ccIuzCn3Li6selsbrrr2J4EIKsJ8bz6a7kCYvNDCPVKf9T89KVZtzz85wjx91YgEcFKWe0abOm9oduuRJiX9x7QuHUvlT4Ohy1CC8Y+64qnORM6tAywdxIfeg8V0XsPMkrxAfTWCkrm8dxP8Kx8ZWRhjwsWII/7rOpGcUlLjksMj3GBXyjurm1A9bgZNyjdu8BRhLW8fYkm3GLqTWhHMWU28tfwAsBqDbClCjkGrg4bvaqmhdc/rnDz9Ry3B1XT+1gEHh7W9jkoqcmCwFqtWYJ99ZmeY4d325yIgHQ0vjjqx6mNWp331/T3x3ecc2sN+yE3rG/HE0BUh8C5Ly4EyOVrt59OPA6IANbsaop5j/c81mr8ItCDbEsn7451hZd5Jr9ip/CMyXaOpYD1lqZfIUTDYh7zQBjqcAQUVECSVYdCStfKuSOG+plhAA2rIWDQrx+/xuUR5U5ZnwYkp6GD2biu8BxB0BQzViNb6oGn2fcUem1WcP39+QcJWYAoQpKRrErDxjCAZ23IaJAIrnwuPdhCoOnz/pB9EBTlNwS4S3T2EgNh2IHzfX53DMIvV6Z+qS3bfq4Ln2VGpp9bu6iaWMuwOwL1Nyuc+rBvPIg2ch8VEVgnygg==",
+    "expiration": "2026-05-22T01:08:40.000Z"
+  },
+  "name": "are-you-cooked",
+  "path": "/home/ubuntu/are-you-cooked",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "MkBS5yF3kQPnedbJsFMdeU",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "KPTCn6Vg5MwJdBSJgvpkMV",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Muhammadali Burxonov",
+    "OWNER_OPEN_ID": "Hpb4diQhMAF6QxHV9piRru",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "79c39db8-6172-4533-842d-c336a8d3b1f5",
+    "VITE_APP_ID": "PaPevHUgbT9h23EnN9jrFk",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Are You Cooked? University Survival Analyzer",
+    "VITE_FRONTEND_FORGE_API_KEY": "kcwqueyEgsBALQdshqNqpJ",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
